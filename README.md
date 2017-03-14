@@ -1,9 +1,10 @@
-# OMSCS-Advice
-Advice from OMSCS students on which class to take next.
+# Advice on Choosing OMSCS Classes
 
 The OMSCS program doesn't currently enforce any prerequisites.  But folks often want to know which class they should take first.
 
-There are a lot of opinions out there, so let's share them here!
+
+**There are a lot of opinions out there, so let's share them here!**
+
 
 Here's what you need to do:
 1.  Clone this repo.
@@ -14,8 +15,12 @@ Here's what you need to do:
 
 
 
-I would love to see advice on:
-1.  The classes to take if you love Python/Java/C etc.
+**I would love to see advice on:*
+1.  The classes to take if you love 
+    * Python
+    * Java
+    * C 
+    * etc.
 2.  The classes to take to prepare for a career in:
     * Health Informatics
     * Data Science
